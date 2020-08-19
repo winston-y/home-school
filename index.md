@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to home-school.xyz
 
 You can use the [editor on GitHub](https://github.com/winston-y/home-school/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
